@@ -17,7 +17,7 @@ public class SingleElement {
             }
         }
 
-        return -1; // Если искомый элемент не найден
+        return -1;
     }
 }
 
